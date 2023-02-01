@@ -42,3 +42,9 @@ main h1{
     }
 }
 
+/* agujas y acc */
+.amigorImg{
+    display: flex;
+    justify-content: space-evenly;
+
+}
